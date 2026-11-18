@@ -1,0 +1,4 @@
+airport_code,airport_name,roundtrip_fare_usd,drive_time_min,weekly_departures,parking_cost_usd,connection_penalty_min
+LAF,Purdue University Airport,310,15,12,10,75
+IND,Indianapolis International Airport,265,75,260,14,10
+ORD,Chicago O'Hare International Airport,240,150,900,24,0
